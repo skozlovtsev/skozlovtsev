@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sergey Kozlovtsev (@skozlovtsev)
+- 👋 Hi, I’m a russian Computer Science student @skozlovtsev
 - Currently learning in MIREA university.
 - Python and Golang Developer(Backend).
 
